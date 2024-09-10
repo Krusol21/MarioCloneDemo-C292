@@ -4,33 +4,33 @@ using UnityEngine;
 
 public class Collider : MonoBehaviour
 {
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        Debug.Log("Enter");
-    }
+    //private void OnCollisionEnter2D(Collision2D collision)
+    //{
+    //    Debug.Log("Enter");
+    //}
 
-    private void OnCollisionExit2D(Collision2D collision)
-    {
-        Debug.Log("Exit");
-    }
+    //private void OnCollisionExit2D(Collision2D collision)
+    //{
+    //    Debug.Log("Exit");
+    //}
 
-    private void OnCollisionStay2D(Collision2D collision)
-    {
-        Debug.Log("Stay");
-    }
+    //private void OnCollisionStay2D(Collision2D collision)
+    //{
+    //    Debug.Log("Stay");
+    //}
 
-    private void OnTriggerEnter2D(Trigger2D collision)
-    {
-        Debug.Log("Enter");
-    }
+    //private void OnTriggerEnter2D(Trigger2D collision)
+    //{
+    //    Debug.Log("Enter");
+    //}
 
-    private void OnTriggerExit2D(Trigger2D collision)
-    {
-        Debug.Log("Exit");
-    }
+    //private void OnTriggerExit2D(Trigger2D collision)
+    //{
+    //    Debug.Log("Exit");
+    //}
 
-    private void OnTriggerStay2D(Trigger2D collision)
-    {
-        Debug.Log("Stay");
-    }
+    //private void OnTriggerStay2D(Trigger2D collision)
+    //{
+    //    Debug.Log("Stay");
+    //}
 }
